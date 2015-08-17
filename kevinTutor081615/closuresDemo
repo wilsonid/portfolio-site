@@ -1,0 +1,20 @@
+function once(passedFunc) {
+  var calledAlready= false;
+
+  return function() {
+    if (calledAlready) {
+      return void 0;
+    } else {
+      calledAlready= true;
+      passedFunc.apply(this, arguments);
+    }
+  }
+}
+undefined
+var fooOnce= once(foo)
+undefined
+fooOnce()
+VM298:3 foo!
+undefined
+fooOnce()
+undefined
