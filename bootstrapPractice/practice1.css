@@ -14,9 +14,9 @@ a.thumbnail.active {
     border: none;
   //border-color: #F00;
     background-color: #FFF;
-  -webkit-transition: border .2s ease-in-out;
-       -o-transition: border .2s ease-in-out;
-          transition: border .2s ease-in-out;  
+  -webkit-transition: border .4s ease-in-out;
+       -o-transition: border .4s ease-in-out;
+          transition: border .4s ease-in-out;  
 }
 
 .navbar-brand {
