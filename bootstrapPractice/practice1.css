@@ -8,15 +8,19 @@ body {
     border: none;
 }
 
+
+
 a.thumbnail:hover,/* use this for the grayscale picture fade also, how to have a mobile parallel to this? */
 a.thumbnail:focus,
 a.thumbnail.active {
     border: none;
   //border-color: #F00;
-    background-color: #FFF;
+    background-color: black;
   -webkit-transition: border .4s ease-in-out;
        -o-transition: border .4s ease-in-out;
           transition: border .4s ease-in-out;  
+    opacity: 0.2;
+    box-shadow: 0 1px 8px black;
 }
 
 .navbar {
@@ -26,6 +30,10 @@ a.thumbnail.active {
 .navbar-brand {
     padding: 20px; /* getting the main 'Dan Wilson' text more in line with the other nav stuff */
 
+}
+
+.thumbnail {
+    //background: red;
 }
 
 a.thumbnail,
@@ -38,4 +46,45 @@ a.thumbnail,
 .hLimit {
     max-width: 1500px;
 
+}
+
+.wrap {
+    //overflow: hidden;
+    //width: 840px;
+    margin: auto;
+  }
+
+.tint {
+    overflow: hidden;
+    //float: left;
+    //background: blue;
+    margin: 0 20px 20px 0;
+  }
+  
+div,a,span:hover:before {
+    visibility: none;
+    
+}
+
+div,a,span:hover:after {
+    visibility: visible;
+}
+
+h2, span {
+    color: white; 
+   font: bold 24px/45px Helvetica, Sans-Serif; 
+   letter-spacing: -1px;  
+   //background: rgb(0, 0, 0); /* fallback color */
+   //background: rgba(0, 0, 0, 0.7);
+   padding: 10px;
+   position: relative;
+   //width: 100%;
+    
+}
+
+h2 { 
+   position: absolute; 
+   top: 150px; 
+   left: 50px; 
+   //width: 100%; 
 }
