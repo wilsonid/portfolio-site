@@ -19,6 +19,10 @@ a.thumbnail.active {
           transition: border .4s ease-in-out;  
 }
 
+.navbar {
+    border-radius: 0px;
+}
+
 .navbar-brand {
     padding: 20px; /* getting the main 'Dan Wilson' text more in line with the other nav stuff */
 
@@ -27,4 +31,11 @@ a.thumbnail.active {
 a.thumbnail,
 .img-rounded {
     border-radius: 3%; /* more drop shadow? */
+    border: 2px;
+    padding: 1px;
+}
+
+.hLimit {
+    max-width: 1500px;
+
 }
