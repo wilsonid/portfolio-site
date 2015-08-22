@@ -51,7 +51,7 @@ a.thumbnail,
 .wrap {
     //overflow: hidden;
     //width: 840px;
-    margin: auto;
+   // margin: auto;
   }
 
 .tint {
@@ -88,4 +88,63 @@ h2 {
    left: 100px; 
    //width: 100%; 
    text-align: center;
+
+//.trPic{ 
+//    width:320px; 
+//    height:240px; 
+//    no-repeat; border:5px solid #000000; 
+//}
+
+a {
+  text-decoration: none;
 }
+
+.hoverTile {
+  width: 300px;
+ height: 300px;
+  
+  background-image: url("http://o.aolcdn.com/hss/storage/midas/3d58a58a573b8c48e5f6fa921cbc4f1b/201644849/Elite_Dangerous_(31).jpg");
+  border-radius: 10px;
+  border: 3px solid #666;
+ }
+
+
+
+.hoverDescription {
+  width: 300px;
+  height: 300px;
+  
+  background: rgba(255,0,0,0.75);
+  border-radius: 5px;
+  
+  font-size: x-large;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  
+  opacity: 0;
+  
+  transition: opacity 0.25s;
+}
+
+.hoverTile:hover .hoverDescription {
+  opacity: 1;
+  border-radius: 10px;
+  border: 3px solid #F00;
+}
+
+.hoverTile:hover {
+  border: 3px solid #F00;
+  border-radius: 10px;
+}  
+
+
+
+
+
+
+
+
+
+
