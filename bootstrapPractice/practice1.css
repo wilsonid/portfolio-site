@@ -5,14 +5,26 @@ body {
 
 .thumbnail {
     background-color: #9e9e9e;
+    border: none;
 }
 
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
+    border: none;
   //border-color: #F00;
     background-color: #FFF;
-  //-webkit-transition: border .2s ease-in-out;
-  //     -o-transition: border .2s ease-in-out;
-  //        transition: border .2s ease-in-out;  
+  -webkit-transition: border .2s ease-in-out;
+       -o-transition: border .2s ease-in-out;
+          transition: border .2s ease-in-out;  
+}
+
+.navbar-brand {
+    padding: 20px;
+
+}
+
+a.thumbnail,
+.img-rounded {
+    border-radius: 3%;
 }
