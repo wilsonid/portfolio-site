@@ -8,7 +8,7 @@ body {
     border: none;
 }
 
-a.thumbnail:hover,
+a.thumbnail:hover,/* use this for the grayscale picture fade also, how to have a mobile parallel to this? */
 a.thumbnail:focus,
 a.thumbnail.active {
     border: none;
@@ -20,11 +20,11 @@ a.thumbnail.active {
 }
 
 .navbar-brand {
-    padding: 20px;
+    padding: 20px; /* getting the main 'Dan Wilson' text more in line with the other nav stuff */
 
 }
 
 a.thumbnail,
 .img-rounded {
-    border-radius: 3%;
+    border-radius: 3%; /* more drop shadow? */
 }
