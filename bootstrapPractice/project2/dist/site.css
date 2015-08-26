@@ -1,0 +1,13 @@
+.packProj {
+    background-image:url('http://goo.gl/04j7Nn');
+}
+.scaleProj {
+    background-image:url('http://goo.gl/04j7Nn');
+}
+.haloProj {
+    background-image:url('http://goo.gl/04j7Nn');
+}
+.jumbotron .scaleProj {
+    height: 500px;
+    width: 500px;
+}
