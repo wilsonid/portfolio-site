@@ -17,8 +17,11 @@
 [o] installed mint/i3 onto ssd after installation 
 [^] researching linux network CLI configuration
 [^] looking over previous scripting/coding work 
-[ ] Editing .vimrc and looking at improved movement/working commands
------------------------------- Questions -------------------------------------------------------------------------------- 
+[o] Forked tmk_keyboard and subbed in my neutrino/m0110a builds
+[ ] still need to put into correct directories and document more
+[^] Editing .vimrc and looking at improved movement/working commands
+
+------------------------------ Questions ------------------------------ 
 [ ] can I have the grid image for the project NOT be the first one shown when I click on it 
 [ ] multiple versions of portfolio/resume 
     -Overall, UX/UI, ID
