@@ -22,6 +22,7 @@
 [^] Editing .vimrc and looking at improved movement/working commands
 [ ] Looking at better monitoring for LAN, possibilities for more purpose-built distros
 [o] Fixed merge issues with WS
+[o] Boot issues with linux laptop; issue: proprietary nvidia driver caused x server crash on boot, rolled back to nouveau
 
 ------------------------------ Questions ------------------------------ 
 [ ] can I have the grid image for the project NOT be the first one shown when I click on it 
