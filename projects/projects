@@ -24,6 +24,8 @@
 [o] Fixed merge issues with WS
 [o] Boot issues with linux laptop; issue: proprietary nvidia driver caused x server crash on boot, rolled back to nouveau
 [ ] Look into website hosting for revamped site, talk to k?
+[o] installed ddwrt onto router for increased granularity in control
+[o] troubleshooting connection options with router, dnsmasq and other options conflict with router
 
 ------------------------------ Questions ------------------------------ 
 [ ] can I have the grid image for the project NOT be the first one shown when I click on it 
