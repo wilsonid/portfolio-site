@@ -21,6 +21,11 @@
 [ ] still need to put into correct directories and document more
 [^] Editing .vimrc and looking at improved movement/working commands
 [ ] Looking at better monitoring for LAN, possibilities for more purpose-built distros
+[o] Fixed merge issues with WS
+[o] Boot issues with linux laptop; issue: proprietary nvidia driver caused x server crash on boot, rolled back to nouveau
+[ ] Look into website hosting for revamped site, talk to k?
+[o] installed ddwrt onto router for increased granularity in control
+[o] troubleshooting connection options with router, dnsmasq and other options conflict with router
 [o] Got Practical Vim book for further learning
 
 ------------------------------ Questions ------------------------------ 
