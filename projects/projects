@@ -1,42 +1,42 @@
------------------------------- Projects ------------------------------ 
-[^] Some type of UI project 
-    could involve improving the website?
-[^] Making new website
-        look more into material design and bootstrap
-[^] Projects: on hover, turn from B&W to Color, don't need title 
-[o] Updated about me section with items from UI/UX applications 
-[o] Added meeting critques: JM
-[o] Fixed broken portfolio link on about page 
-[o] Disabled non-live pages on site 
-[o] Updated link to portfolio download on About page 
-[o] Email M referred by Bart about job opportunity
-[o] Talked to K re: HTML/CSS/JS work
-[o] Command line codecademy tutorial 
-[o] html/css codecademy tutorial 
-[o] user account pw on linux stick 
-[o] installed mint/i3 onto ssd after installation 
-[^] researching linux network CLI configuration
-[^] looking over previous scripting/coding work 
-[o] Forked tmk_keyboard and subbed in my neutrino/m0110a builds
-[ ] still need to put into correct directories and document more
-[^] Editing .vimrc and looking at improved movement/working commands
-[ ] Looking at better monitoring for LAN, possibilities for more purpose-built distros
-[o] Fixed merge issues with WS
-[o] Boot issues with linux laptop; issue: proprietary nvidia driver caused x server crash on boot, rolled back to nouveau
-[ ] Look into website hosting for revamped site, talk to k?
-[o] installed ddwrt onto router for increased granularity in control
-[o] troubleshooting connection options with router, dnsmasq and other options conflict with router
-[o] Got Practical Vim book for further learning
-
------------------------------- Questions ------------------------------ 
-[ ] can I have the grid image for the project NOT be the first one shown when I click on it 
-[ ] multiple versions of portfolio/resume 
-    -Overall, UX/UI, ID
-[ ] improve the resume/portfolio 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
-[ ] 
+------------------------------ PROJECTS ------------------------------ 
+    [^]     Some type of UI project 
+            could involve improving the website?
+    [^]     Making new website
+                look more into material design and bootstrap
+    [^]     Projects: on hover, turn from B&W to Color, don't need title (added complexity)
+    [o]     Updated about me section with items from UI/UX applications 
+    [o]     Added meeting critques: JM
+    [o]     Fixed broken portfolio link on about page 
+    [o]     Disabled non-live pages on site 
+    [o]     Updated link to portfolio download on About page 
+    [o]     Email M referred by Bart about job opportunity
+    [o]     Talked to K re: HTML/CSS/JS work
+    [o]     Command line codecademy tutorial 
+    [o]     html/css codecademy tutorial 
+    [o]     user account pw on linux stick 
+    [o]     installed mint/i3 onto ssd after installation 
+    [^]     researching linux network CLI configuration
+    [^]     looking over previous scripting/coding work 
+    [o]     Forked tmk_keyboard and subbed in my neutrino/m0110a builds
+    [ ]     still need to put into correct directories and document more
+    [^]     Editing .vimrc and looking at improved movement/working commands
+    [ ]     Looking at better monitoring for LAN, possibilities for more purpose-built distros
+    [o]     Fixed merge issues with WS
+    [o]     Boot issues with linux laptop; issue: proprietary nvidia driver caused x server crash on boot, rolled back to nouveau
+    [ ]     Look into website hosting for revamped site, talk to k?
+    [o]     installed ddwrt onto router for increased granularity in control
+    [o]     troubleshooting connection options with router, dnsmasq and other options conflict with router
+    [o]     Got Practical Vim book for further learning
+    [ ]     Figure out how ex commands work (page 52) 
+-------    ---------------------- QUESTIONS ------------------------------ 
+    [ ]     Can I have the grid image for the project NOT be the first one shown when I click on it 
+    [ ]     multiple versions of portfolio/resume 
+            -Overall, UX/UI, ID
+    [ ]     Improve the resume/portfolio 
+    [ ]     
+    [ ]     
+    [ ]     
+    [ ]     
+    [ ]     
+    [ ]     
+    [ ]     
