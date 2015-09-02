@@ -1,0 +1,28 @@
+syntax enable
+filetype indent on
+set tabstop=4 softtabstop=4 expandtab
+set shiftwidth=4
+set scrolloff=2
+set title
+set number showcmd cursorline
+set laststatus=2
+set wildmenu
+set wildmode=longest,list
+set showmatch
+set matchtime=2
+set matchpairs+=<:>
+set incsearch hlsearch
+set nowrap
+set showmode
+set ignorecase
+
+set smartcase
+set smartindent
+set smarttab
+
+set magic
+set bs=indent,eol,start
+set confirm
+set hidden
+set history=5000
+
