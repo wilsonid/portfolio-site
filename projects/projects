@@ -29,8 +29,9 @@
     [o]     Got Practical Vim book for further learning
     [ ]     Figure out how ex commands work (page 52) 
     [ ]     Clean up code a bit more for site
-    [ ]     Work more through Practical VIM
-    [ ]     Figure out the inevitable merge conflict from not having internet access
+    [o]     Set up Motion. Continue troubleshooting
+    [^]     Work more through Practical VIM
+    [o]     Figure out the inevitable merge conflict from not having internet access
 
 -------    ---------------------- QUESTIONS ------------------------------ 
     [ ]     Can I have the grid image for the project NOT be the first one shown when I click on it 
