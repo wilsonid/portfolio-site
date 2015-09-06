@@ -1,5 +1,10 @@
 a:link, a:visited {
     text-decoration: none;
+    color: gray;
+    transition: color .5s;
+}
+
+a:hover {
     color: black;
 }
 
@@ -25,14 +30,11 @@ a:link, a:visited {
 }
 
 .jumbotron {
-    color: blue;
     box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.12), 0 1px 6px 0 rgba(0, 0, 0, 0.12);
-    transition: color 0.25s;
     transition: box-shadow 0.5s;
 }
 
 .jumbotron:hover {
     box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
-    color: red;
  
 }
