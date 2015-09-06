@@ -1,23 +1,31 @@
 a:link, a:visited {
     text-decoration: none;
-    color: gray;
+    color: #ccc;
     transition: color .5s;
 }
 
 a:hover {
-    color: black;
+    color: #fff;
 }
 
 .packProj {
-    background-image:url('https://placehold.it/1000x1000');
+    background-image:url('http://space-facts.com/wp-content/uploads/andromeda-galaxy.jpg');
 }
+.hoverProj {
+    opacity: 0.75;
+    transition: opacity 0.5s;
+}
+.hoverProj:hover {
+    opacity: 1.0;
+}
+
 .scaleProj {
 
-    background-image:url('https://placehold.it/1000x1000');
+    background-image:url('http://space-facts.com/wp-content/uploads/andromeda-galaxy.jpg');
 }
 .haloProj {
 
-    background-image:url('https://placehold.it/1000x1000');
+    background-image:url('http://space-facts.com/wp-content/uploads/andromeda-galaxy.jpg');
 }
 .jumbotron .scaleProj {
     height: 500px;
@@ -35,6 +43,8 @@ a:hover {
 }
 
 .jumbotron:hover {
-    box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
+   // box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
+    box-shadow: 0 16px 28px 0 rgba(0, 0, 0, 0.22), 0 25px 55px 0 rgba(0, 0, 0, 0.21);
+    opacity: 1.0;
  
 }
