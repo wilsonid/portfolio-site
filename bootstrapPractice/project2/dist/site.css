@@ -1,13 +1,20 @@
 .packProj {
-    background-image:url('http://goo.gl/04j7Nn');
+    background-image:url('https://placehold.it/1000x1000');
 }
 .scaleProj {
-    background-image:url('http://goo.gl/04j7Nn');
+
+    background-image:url('https://placehold.it/1000x1000');
 }
 .haloProj {
-    background-image:url('http://goo.gl/04j7Nn');
+
+    background-image:url('https://placehold.it/1000x1000');
 }
 .jumbotron .scaleProj {
     height: 500px;
     width: 500px;
+}
+
+.jumbotron hr {
+    visibility: hidden;
+
 }
