@@ -4,6 +4,15 @@ a:link, a:visited {
     transition: color .5s;
 }
 
+.jumbotron h2, .jumbotron h1 {
+    color: #fff;
+
+}
+.jumbotron p {
+    color: #ccc;
+
+}
+
 a:hover {
     color: #fff;
 }
@@ -17,6 +26,10 @@ a:hover {
 }
 .hoverProj:hover {
     opacity: 1.0;
+}
+
+.mainProjJumbo {
+    opacity: 0.9;
 }
 
 .scaleProj {
@@ -42,7 +55,7 @@ a:hover {
     transition: box-shadow 0.5s;
 }
 
-.jumbotron:hover {
+a .jumbotron:hover {
    // box-shadow: 0 27px 24px 0 rgba(0, 0, 0, 0.2), 0 40px 77px 0 rgba(0, 0, 0, 0.22);
     box-shadow: 0 16px 28px 0 rgba(0, 0, 0, 0.22), 0 25px 55px 0 rgba(0, 0, 0, 0.21);
     opacity: 1.0;
