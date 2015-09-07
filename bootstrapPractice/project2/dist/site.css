@@ -1,6 +1,6 @@
 a:link, a:visited {
     text-decoration: none;
-    color: #ccc;
+    color: rgba(255,255,255,0);
     transition: color .5s;
 }
 
